@@ -1,0 +1,15 @@
+﻿  main.cpp
+e:\tictactoe\tictactoe\main.cpp(107): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(109): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(139): warning C4018: '>=': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(181): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(183): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(222): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(224): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(258): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(260): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(285): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(289): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(300): warning C4018: '<': signed/unsigned mismatch
+e:\tictactoe\tictactoe\main.cpp(307): warning C4018: '<': signed/unsigned mismatch
+  TicTacToe.vcxproj -> E:\TicTacToe\Debug\TicTacToe.exe
